@@ -6,4 +6,4 @@
 - Tepliczky Olivér
 
 ## Feladat
-Online projekt management tool...
+[Online projekt management tool](../Temalabor_otletek_2023.pdf)
