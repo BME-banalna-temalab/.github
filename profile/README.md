@@ -13,3 +13,6 @@
 [Sőregi Larina napló](/haladasi%20naplok/Larina.md) \
 [Dancs Krisztián napló](/haladasi%20naplok/Krisztian.md) \
 [Tepliczky Olivér napló](/haladasi%20naplok/Oliver.md)
+
+## Dokumentációk
+[link](https://github.com/BME-banalna-temalab/documantations)
