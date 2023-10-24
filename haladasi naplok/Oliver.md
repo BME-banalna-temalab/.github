@@ -10,4 +10,5 @@ A múlt héten megkezdett demo bővítése és feltöltése [demo version 1](htt
 [(Current README.md part)](https://github.com/BME-banalna-temalab/banalna-app/blob/main/README.md#members-preview)
 # 8. hét
 A Member adatstruktúra hozzáigazítva a legújabb struktúrához, ezzel együtt új teszt adatok beolvasása megvalósítva, a membercardokat frissítettem, már [lenyithatóak](https://github.com/BME-banalna-temalab/banalna-app/raw/main/demo2.png). Ott látszik milyen projektekben és taskokban van illetve mely projekteket viszik az adott emberek.
+Még egy új lenyitható résszel bővült a [membercard](https://github.com/BME-banalna-temalab/banalna-app/raw/main/demo2_2.png), amit lenyitva láthatóak leszneka  projektek melyek hozzá vannak rendelve. A projektek szintén lenyithatóak, hogy több adtaot tudjunk meg róluk valamint [kattintható is, hogy lássuk a státuszát](https://github.com/BME-banalna-temalab/banalna-app/raw/main/demo2_toast.png).
 [(Current README.md part)](https://github.com/BME-banalna-temalab/banalna-app/blob/main/README.md#updatedweek8-members-preview) 
