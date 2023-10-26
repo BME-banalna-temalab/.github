@@ -23,6 +23,20 @@ Adatgenerálás JSON generatorral a következő scripttel:
 
 # 7. hét
 Demo frontend elkészítése a tagok kilistázásához. 
+ListGroup.txt fájlban
 Header a webapp nevével, 4 gombbal és a csapat képével, mint logo. 
 A gombok még nem reagálnak a kattintásra, csak a színe változik meg a kattintott gombnak. 
 A főrészben a tagok vannak kilistázva egy ListGroup-ban: név, email és szerep.
+
+# 8. hét
+Login screen frontend elkészítése
+Login.tsx fájlban
+Az oldal kettő flexbox-ból áll 3:4 arányban. 
+A baloldali tartalmazza az alkalmazás nevét a balfelső sarokban, valamint egy üdvözlést középen.
+Ennek háttere egy kép. Minden kép az images mappában található.
+A jobboldali a login rész. 
+Kettő textbox, egy az email címnek, egy a jelszónak, valamint egy gomb a bejelentkezéshez. 
+Alapértelmezett szöveg bennük (placeholder) az "Email address" és a "Password".
+Az emailnél text az input, a jelszónál password. 
+A "Sign in" gombon az kurzor pointer típusú lesz. 
+Ha hibás adatokat ad meg a felhasználó akkor az "Invalid username or password. Please try again." üzenet jelenik meg. 
