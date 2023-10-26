@@ -9,3 +9,6 @@ Megcsináltam a naplózási mintákat, és a README.md-t. Tanultam a typescripte
 
 # 7. hét
 A héten a CI/CD vel foglalkoztam a backendben és a mobil appban. A backendnek automatikusan elindul egy build és dockerizálja majd feltölti a repo packages tárolójába. Az android appnál egy telepíthető apk-t készít belőle ami a workflow artifacts menüben van. A CI/CD-t a github actions-al oldottam meg. Még fogok dolgozni a backend működésén illetve a frontend összekapcsolásán.
+
+# 8. hét
+Sajnos az eredeti módszer ahogy generáltuk az adatokan nem volt megfelelő ezért írtam egy saját scriptet amit tudunk majd használni erre a célra typescriptben, fakenator külső package-el. A taskok beállítható hogy alapból ne legyenek emberhez rendelve. Segítettem Krisztiánnak kijavítani egy hibát az adatszerkezettel  kapcsolatban mikor implementáltam az adat sémából az entityket.
