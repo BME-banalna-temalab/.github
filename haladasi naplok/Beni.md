@@ -12,3 +12,6 @@ A héten a CI/CD vel foglalkoztam a backendben és a mobil appban. A backendnek 
 
 # 8. hét
 Sajnos az eredeti módszer ahogy generáltuk az adatokan nem volt megfelelő ezért írtam egy saját scriptet amit tudunk majd használni erre a célra typescriptben, fakenator külső package-el. A taskok beállítható hogy alapból ne legyenek emberhez rendelve. Segítettem Krisztiánnak kijavítani egy hibát az adatszerkezettel  kapcsolatban mikor implementáltam az adat sémából az entityket.
+
+# 9. hét
+Ezen a héten sikerült megcsinálnom hogy az otthoni szerveremet összekötöttem a cloudflare tunnelel és így elérhető online már a friss backend. Egyben ezzel frissítettem a dockerizációt és bevezettem a dotenv-vaultüot ami lehetővé teszi hogy csak a production fázisban lehessen elérni a titkos adatokat.
