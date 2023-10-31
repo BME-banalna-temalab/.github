@@ -5,6 +5,11 @@
 - Dancs Krisztián
 - Tepliczky Olivér
 
+## Fontos linkek
+[Weboldal link](https://banalna.afkfish.com) \
+[API link](https://banalna.afkfish.com/api/) \
+[Swagger link](https://banalna.afkfish.com/swagger)
+
 ## Feladat
 [Online projekt management tool](../Temalabor_otletek_2023.pdf)
 
