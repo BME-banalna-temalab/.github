@@ -14,4 +14,9 @@ A héten a CI/CD vel foglalkoztam a backendben és a mobil appban. A backendnek 
 Sajnos az eredeti módszer ahogy generáltuk az adatokan nem volt megfelelő ezért írtam egy saját scriptet amit tudunk majd használni erre a célra typescriptben, fakenator külső package-el. A taskok beállítható hogy alapból ne legyenek emberhez rendelve. Segítettem Krisztiánnak kijavítani egy hibát az adatszerkezettel  kapcsolatban mikor implementáltam az adat sémából az entityket.
 
 # 9. hét
-Ezen a héten sikerült megcsinálnom hogy az otthoni szerveremet összekötöttem a cloudflare tunnelel és így elérhető online már a friss backend. Egyben ezzel frissítettem a dockerizációt és bevezettem a dotenv-vaultüot ami lehetővé teszi hogy csak a production fázisban lehessen elérni a titkos adatokat.
+Ezen a héten sikerült megcsinálnom hogy az otthoni szerveremet összekötöttem a cloudflare tunnelel és így elérhető online már a friss backend. Egyben ezzel frissítettem a dockerizációt és bevezettem a dotenv-vault-ot ami lehetővé teszi hogy csak a production fázisban lehessen elérni a titkos adatokat. Ezután elkezdtem dolgozni a frontend routingon is illetve hogy az is online legyen a szerveren és a CI/CD-vel automatikusan containerizálódjon.
+
+## Linkek:
+- [Backend](https://banalna.afkfish.com/api)
+- [Frontend](https://banalna.afkfish.com/)
+- [Swagger](https://banalna.afkfish.com/swagger)
