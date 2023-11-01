@@ -12,3 +12,6 @@ Generáltam a többi entityhez is adatokat. Megcsináltam a tasknak is a crud m�
 
 # 8. hét
 Főleg bug fixeket csináltam a héten, egy két adatmódosítás is volt mivel nem volt teljesen helyes a séma. Befejeztem a basic CRUD endpointokat az entityknek (member, task, project), jelenleg Date validáció problémákba ütköztem. Ezen felül, a member update endpointját átalakítottam, mostmár Query-vel lehet assignolni az adott membert taskhoz vagy projekthez.
+
+# 9. hét
+Implementáltam authentikációt illetve authorizációt a backendre. A Memberhez hozzáadtam egy password mezőt, ahol hashelve tároljuk a jelszavakat (a generált adatokban még nem ez van, de ha létrehozunk egyet vagy updatelünk egyet akkor hashelve lesz).
