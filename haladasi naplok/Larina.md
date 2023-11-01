@@ -40,3 +40,13 @@ Alapértelmezett szöveg bennük (placeholder) az "Email address" és a "Passwor
 Az emailnél text az input, a jelszónál password. 
 A "Sign in" gombon az kurzor pointer típusú lesz. 
 Ha hibás adatokat ad meg a felhasználó akkor az "Invalid username or password. Please try again." üzenet jelenik meg. 
+
+# 9. hét
+A fájlokat szétszedtem egy tsx és egy css fájlra. 
+A projekt hozzáadása oldal váza készen van, már csak szebben el kell rendezni a textfield-eket.
+A prioritás és a státusz legördülő menüből választható. A member hozzáadás is lehet így egyszerűbb lesz majd, egyelőre annál textfield van.
+A routing is kész a meglévő oldalak között (list members-ig).
+Van egy root, ami a kezdőoldal. Itt található két opció a Login és a Create Account.
+A Login az előző héten elkészített login oldalra navigál. 
+A Create Account oldal jelenleg hasonlóan néz ki, más szöveggel. 
+A login oldalon az admin név és admin jelszóval tovább lehet lépni a list members oldalra. 
