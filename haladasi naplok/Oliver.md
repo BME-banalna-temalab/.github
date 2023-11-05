@@ -15,3 +15,5 @@ Még egy új lenyitható résszel bővült a [membercard](https://github.com/BME
 # 9. hét
 A megjelnítés változtatva lett, már külön nézetben vannak a [tagok](https://github.com/BME-banalna-temalab/banalna-app/tree/main#members-preview-1) és [projektek](https://github.com/BME-banalna-temalab/banalna-app/tree/main#projects-preview). A nézetekbe felvettem topappbarokat, ahol a nézetek közötti váltásra van lehetőség a jobb felső sarokban lévő ikonos gommbal, ami a navigációs gráfnak jelez.
 Már nem fájlból olvassa be az adatokat hanem a backenddel kommunikál, míg olvas [töltő ikon](https://github.com/BME-banalna-temalab/banalna-app/blob/main/demo3l.png) jelenik meg. Plusz átálltam modelview architektúrára.
+# 10. hét
+A különböző nézetek közötti váltás átszervezve [oldalsó navigációs menübe](https://github.com/BME-banalna-temalab/banalna-app/blob/main/demo4n.jpg), amit bal felső ikonra vagy csak simán balra húzással előhozható és új nézet felvéve amin a [Taskok](https://github.com/BME-banalna-temalab/banalna-app#tasks-preview) láthatóak. A Screen osztályok közös részének nagyobbik része egy ősbe kiszervezve.
