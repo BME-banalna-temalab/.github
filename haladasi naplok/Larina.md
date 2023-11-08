@@ -50,3 +50,9 @@ Van egy root, ami a kezdőoldal. Itt található két opció a Login és a Creat
 A Login az előző héten elkészített login oldalra navigál. 
 A Create Account oldal jelenleg hasonlóan néz ki, más szöveggel. 
 A login oldalon az admin név és admin jelszóval tovább lehet lépni a list members oldalra. 
+
+# 10. hét
+Add Project oldalt elkészítettem
+Az összes css fájlt átírtam .module-ra, ezért a className-et a tsx fájlokban is át kellett írni
+Megvan a navigáció minden oldal között
+Két oldalhoz megcsináltam a headert és a hozzájuk tartozó css-t
