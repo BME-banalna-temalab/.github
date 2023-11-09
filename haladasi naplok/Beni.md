@@ -20,3 +20,6 @@ Ezen a héten sikerült megcsinálnom hogy az otthoni szerveremet összekötött
 - [Backend](https://banalna.afkfish.com/api)
 - [Frontend](https://banalna.afkfish.com/)
 - [Swagger](https://banalna.afkfish.com/swagger)
+
+# 10. hét
+Ezen a héten a bacend és a frontend szerver oldali futásával foglalkoztam illetve segítettem a frontend fejlesztésében is. A szerveren mostmár a legfrissebb docker image-k futnak mint a backend ami mostmár authentikációval rendelkezik. A frontenden a sample data renderelése sikerült és a public resource fájlokat állítottam be hogy egy statikus helyről szolgálja ki a szerver.
