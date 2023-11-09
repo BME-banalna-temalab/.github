@@ -15,3 +15,6 @@ Főleg bug fixeket csináltam a héten, egy két adatmódosítás is volt mivel 
 
 # 9. hét
 Implementáltam authentikációt illetve authorizációt a backendre. A Memberhez hozzáadtam egy password mezőt, ahol hashelve tároljuk a jelszavakat (a generált adatokban még nem ez van, de ha létrehozunk egyet vagy updatelünk egyet akkor hashelve lesz).
+
+# 10. hét
+Ezen a héten is főleg fixelgettem a dolgokat, mostmár a legtöbb endpointon ahol szükséges van authorizáció illetve authentikáció. Hozzáadtam a DTO validációhoz egy ValidationPipe-ot, mostmár csak a DTO-nak megfelelő adatokat engedi át, ez eddig egy hiba volt.
