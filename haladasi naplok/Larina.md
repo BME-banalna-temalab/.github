@@ -56,3 +56,11 @@ Add Project oldalt elkészítettem
 Az összes css fájlt átírtam .module-ra, ezért a className-et a tsx fájlokban is át kellett írni
 Megvan a navigáció minden oldal között
 Két oldalhoz megcsináltam a headert és a hozzájuk tartozó css-t
+
+# 11. hét
+profile.module.css elkészítése
+projekt members hozzáadása multiple selectorral
+kisebb szépséghibák javítása, mint:
+navbar-ban a logó alá került egy felirat
+add project oldalon a gomb hover megadása
+a create account oldalon egy "Username" textbox is van már
