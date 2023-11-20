@@ -18,3 +18,6 @@ Implementáltam authentikációt illetve authorizációt a backendre. A Memberhe
 
 # 10. hét
 Ezen a héten is főleg fixelgettem a dolgokat, mostmár a legtöbb endpointon ahol szükséges van authorizáció illetve authentikáció. Hozzáadtam a DTO validációhoz egy ValidationPipe-ot, mostmár csak a DTO-nak megfelelő adatokat engedi át, ez eddig egy hiba volt.
+
+# 11. hét
+Az eltérítéssel foglalkoztam és csináltam neki új endpointot, sémaváltoztatás stb.
