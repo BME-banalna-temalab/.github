@@ -64,3 +64,8 @@ kisebb szépséghibák javítása, mint:
 navbar-ban a logó alá került egy felirat
 add project oldalon a gomb hover megadása
 a create account oldalon egy "Username" textbox is van már
+
+# 12. hét
+navigation kijavítása, login után profile
+edit gomb hozzáadása a projekt listához
+edit project oldal 
