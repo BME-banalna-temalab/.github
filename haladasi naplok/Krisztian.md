@@ -21,3 +21,6 @@ Ezen a héten is főleg fixelgettem a dolgokat, mostmár a legtöbb endpointon a
 
 # 11. hét
 Az eltérítéssel foglalkoztam és csináltam neki új endpointot, sémaváltoztatás stb.
+
+# 12. hét
+Főleg az eltérítésen elmélkedtem és próbáltam jó megoldást találni, hibát dob ha már foglalt stb.
