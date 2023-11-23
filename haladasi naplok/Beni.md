@@ -26,3 +26,6 @@ Ezen a héten a bacend és a frontend szerver oldali futásával foglalkoztam il
 
 # 11. hét
 A héten a frontenddel foglalkoztam végig, megcsináltam a projek listázó képernyőt és bekötöttem az adat lekérdezéseket a backendbe is. Mostmár ha be akarunk jelentkezni akkor egy létező felhaszálóval lehet csak akinek kezeli a backend a jogait, továbbá csináltam egy alap profile page-et is. Ha nincs authentikálva a felhasználó akkor automatikusan redirectel a bejelentkező képernyőre.
+
+# 12. hét
+Most a frontendel foglalkoztam mint a projektek felrakása az adatbázisba. Devops feladatokat is csináltam. A backenden volt egy kis hiba a notes-be.
