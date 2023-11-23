@@ -23,3 +23,6 @@ Ezen a héten sikerült megcsinálnom hogy az otthoni szerveremet összekötött
 
 # 10. hét
 Ezen a héten a bacend és a frontend szerver oldali futásával foglalkoztam illetve segítettem a frontend fejlesztésében is. A szerveren mostmár a legfrissebb docker image-k futnak mint a backend ami mostmár authentikációval rendelkezik. A frontenden a sample data renderelése sikerült és a public resource fájlokat állítottam be hogy egy statikus helyről szolgálja ki a szerver.
+
+# 11. hét
+A héten a frontenddel foglalkoztam végig, megcsináltam a projek listázó képernyőt és bekötöttem az adat lekérdezéseket a backendbe is. Mostmár ha be akarunk jelentkezni akkor egy létező felhaszálóval lehet csak akinek kezeli a backend a jogait, továbbá csináltam egy alap profile page-et is. Ha nincs authentikálva a felhasználó akkor automatikusan redirectel a bejelentkező képernyőre.
