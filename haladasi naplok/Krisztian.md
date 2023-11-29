@@ -24,3 +24,6 @@ Az eltérítéssel foglalkoztam és csináltam neki új endpointot, sémaváltoz
 
 # 12. hét
 Főleg az eltérítésen elmélkedtem és próbáltam jó megoldást találni, hibát dob ha már foglalt stb.
+
+# 13. hét
+Bugfixek, végső simítások, még hátravan pár apró dolog, hogy tökéletes legyen.
