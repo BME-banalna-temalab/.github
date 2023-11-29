@@ -69,3 +69,11 @@ a create account oldalon egy "Username" textbox is van már
 navigation kijavítása, login után profile
 edit gomb hozzáadása a projekt listához
 edit project oldal 
+
+# 13. hét
+leader selector az add project oldalrra
+edit project page létrehozása, layout, textboxok, selectorok
+add task gomb a navbarra
+add task oldal elkészítése
+a tasknál egy projekt hozzárendeléséhez selector
+list projectnél details funkció, új oldalon a projekt részletei 
