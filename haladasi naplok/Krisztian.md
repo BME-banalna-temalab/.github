@@ -27,3 +27,6 @@ Főleg az eltérítésen elmélkedtem és próbáltam jó megoldást találni, h
 
 # 13. hét
 Bugfixek, végső simítások, még hátravan pár apró dolog, hogy tökéletes legyen.
+
+# 14. hét
+Szintén apró javítások, több hibaüzenet felvétele illetve swagger dokumentáció. 
