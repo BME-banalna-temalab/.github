@@ -29,3 +29,6 @@ A héten a frontenddel foglalkoztam végig, megcsináltam a projek listázó ké
 
 # 12. hét
 Most a frontendel foglalkoztam mint a projektek felrakása az adatbázisba. Devops feladatokat is csináltam. A backenden volt egy kis hiba a notes-be.
+
+# 13. hét - 14. hét
+Most is a frontenddel foglakoztunk, megcsinaltam az api muveleteket a legtobb helyen es a hibakezelest is. Megcsinaltam az uj user regisztraciot is automatikus loginnel. Tovabbi simitasok.
