@@ -77,3 +77,10 @@ add task gomb a navbarra
 add task oldal elkészítése
 a tasknál egy projekt hozzárendeléséhez selector
 list projectnél details funkció, új oldalon a projekt részletei 
+
+# 14. hét
+details oldalra a tasok listája
+edit task oldal elkészítése
+a taskok listájához az eltérítés hozzáadása
+törlés funkció a projekthez és a taskhoz
+edit task oldalra az eltérítés: declined by tagok listája 
