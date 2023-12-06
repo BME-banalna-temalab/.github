@@ -6,6 +6,7 @@
 - Tepliczky Olivér
 
 ## Fontos linkek
+[Alkalmazás letölthető apk-ja](https://github.com/BME-banalna-temalab/banalna-app/releases/tag/v1.0) \
 [Weboldal link](https://banalna.afkfish.com) \
 [API link](https://banalna.afkfish.com/api/) \
 [Swagger link](https://banalna.afkfish.com/swagger)
